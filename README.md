@@ -2,8 +2,8 @@
 <br>
 This project focuses on developing a program to manage daily diary entry.
 <br>
-It's consist of following features.
-<br>
+It's consist of following features:-
+<br><br>
 1.Password protected entry.
 <br>
 2.Diary entry.
